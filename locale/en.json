@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Math editor",
+    "description": "AxMath-style visual & LaTeX formula editor with direct in-slot typing and composer insertion."
+  },
+  "editor": {
+    "title": "Math formula editor",
+    "insert": "Insert",
+    "clear": "Clear",
+    "copy": "Copy LaTeX",
+    "close": "Close",
+    "inline": "Inline $…$",
+    "block": "Display $$…$$",
+    "raw": "LaTeX only",
+    "visualLabel": "Visual editor (type directly · ^ sup · _ sub · \\ cmd · Tab next box)",
+    "italicOn": "Italic",
+    "italicOff": "Upright",
+    "slantHint": "Click to toggle italic or upright characters",
+    "latexLabel": "LaTeX source (two-way synced)",
+    "placeholder": "Type LaTeX, e.g. \\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}",
+    "empty": "Click here to type math directly, or pick a symbol/template",
+    "inserted": "Inserted into the composer",
+    "failed": "Insert failed — click into the composer to place the caret, then try again",
+    "copied": "LaTeX copied",
+    "copyFailed": "Copy failed",
+    "hint": "Type directly in the visual box · Tab jumps slots · Ctrl+Enter inserts",
+    "symbols": "Symbols",
+    "templates": "Templates"
+  }
+}

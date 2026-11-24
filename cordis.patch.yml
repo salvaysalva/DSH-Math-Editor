@@ -1,0 +1,3 @@
+- insert:
+    - id: math-editor
+      name: '@local/math-editor'

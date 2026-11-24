@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "数学公式编辑器",
+    "description": "采用 AxMath 风格可视化直编与符号面板的数学公式编辑器，支持直接在公式方框中输入编辑并写入会话输入框。"
+  },
+  "editor": {
+    "title": "数学公式编辑器",
+    "insert": "插入",
+    "clear": "清空",
+    "copy": "复制 LaTeX",
+    "close": "关闭",
+    "inline": "行内 $…$",
+    "block": "独立 $$…$$",
+    "raw": "纯 LaTeX",
+    "visualLabel": "可视化编辑（直接输入 · ^ 上标 · _ 下标 · \\ 命令 · Tab 跳格）",
+    "italicOn": "倾斜",
+    "italicOff": "不倾斜",
+    "slantHint": "点击切换字符倾斜或竖直",
+    "latexLabel": "LaTeX 源码（双向实时同步）",
+    "placeholder": "输入 LaTeX，例如 \\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}",
+    "empty": "点击此处直接输入公式，或点击左侧符号/模板",
+    "inserted": "已插入到输入框",
+    "failed": "插入失败：请先在输入框中点击定位光标，然后重试",
+    "copied": "LaTeX 已复制",
+    "copyFailed": "复制失败",
+    "hint": "可视化区域可直接打字编辑 · Tab 切换方框 · Ctrl+Enter 插入",
+    "symbols": "符号",
+    "templates": "模板"
+  }
+}
